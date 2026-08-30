@@ -1,3 +1,5 @@
+<img src="../imagens/HTML5-Basico.png" alt="HTML5 Básico" width="100%">
+
 # HTML5 Básico - Revisão Completa
 
 Você REALMENTE conhece a base do Front-End?
